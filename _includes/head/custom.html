@@ -1,6 +1,7 @@
 <!-- start custom head snippets -->
 
 <!-- for mathjax support -->
+{% if page.usemathjax %}
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
@@ -10,6 +11,7 @@
   });
   </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+{% endif %}
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
