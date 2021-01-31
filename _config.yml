@@ -97,7 +97,7 @@ author:
   name             : "Junghun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mathmatician"
-  location         : "Tokyo, Japan"
+  location         : "Tokyo Institute of Technology, Tokyo, Japan"
   email            : "lee.j.ba@m.titech.ac.jp"
   links:
     - label: "Email" 
