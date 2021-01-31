@@ -7,7 +7,7 @@ title: "Reseach"
 # Papers
 
 I pubilished few papers,which can be found on arXiv.
-
+It is ordered as authours, title, journal, publishier, and etc.
 ## Submitted
 
 TBA
@@ -33,16 +33,16 @@ TBA
 # Talks
 
 There were talks on the reserach I joined.
+It is ordered as authours, title, journal, publishier, and etc.
+The star mark(*) is put for the speaker.
 
-<!-- Hyperbolicity and J-stability in non-archimedean dynamics -->
-<!-- https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3592 -->
 ## Conference
 
 1. Robert L. Benedetto* and Junghune Lee, Hyperbolicity and J-stability in non-archimedean dynamics, AMS and MAA Joint Mathematical Meetings, Online, Jan. 2021.
 
 2. Robert L. Benedetto and Junghune Lee*, Hyperbolicity and J-stability in non-archimedean dynamics, RIMS workshop Complex Dynamics and Related Topics, Online, Dec. 2020
 
-3. 
+
 
 ## Seminar
 
