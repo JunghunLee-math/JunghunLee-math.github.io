@@ -6,12 +6,17 @@ title: "Reseach"
 
 # Papers
 
-## Submitted
+I pubilished few papers, and you can find it on arXiv.
 
+## Submitted
 
 ## Reviewed
 
+
+
 ## Non-reviewed
+
+
 
 # Talks
 

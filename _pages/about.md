@@ -2,6 +2,7 @@
 layout: single
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
 I am Junghun Lee, a mathematician.
