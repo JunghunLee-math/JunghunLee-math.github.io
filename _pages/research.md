@@ -42,11 +42,53 @@ The star mark(*) is put for the speaker.
 
 2. Robert L. Benedetto and Junghune Lee*, Hyperbolicity and J-stability in non-archimedean dynamics, RIMS workshop Complex Dynamics and Related Topics, Online, Dec. 2020
 
+3. Junghun Lee, A. Sourmelidis, J. Steuding, A. I. Suriajaya, Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip, RIMS Workshop "Analytic Number Theory and Related Topics", Kyoto (Japan), Oct. 2018.
 
+4. Junghun Lee, A. Sourmelidis, J. Steuding, A. I. Suriajaya, Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip, International Conference on Number Theory Dedicated to the 70th Birthdays of Professors Antanas Laurinčikas and Eugenijus Manstavičius, Palanga (Lithuania), Sep. 2018.
 
-## Seminar
+5. Junghun Lee, A. Sourmelidis, J. Steuding, A. I. Suriajaya, Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip, Conference on elementary and analytic number theory (ELAZ) 2018, Bonn (Germany), Sep. 2018.
 
+6. Junghun Lee, A. Sourmelidis, J. Steuding, A. I. Suriajaya, Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip, The 15th Canadian Number Theory Association Conference, Quebec (Canada), Jul. 2018.
 
+7. Junghun Lee, A. Sourmelidis, J. Steuding, A. I. Suriajaya, Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip, Number Theory Week 2017 -- A conference on the occasion of the 60th birthday of Jerzy Kaczorowski, Poznan (Poland), Sep. 2017.
 
-## Etc
+8. Junghun Lee, A. Sourmelidis, J. Steuding, A. I. Suriajaya, Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip, Various Aspects of Multiple Zeta Functions –– Conference in Honor of Kohji Matsumoto’s 60th Birthday, Nagoya (Japan), Aug. 2017.
 
+9. Junghun Lee, A. I. Suriajaya, An ergodic value distribution of certain meromorphic functions, 30th Journées Arithmétiques, Caen (France), Jul. 2017.
+
+10. Junghun Lee, Arithmetic dynamics: structural stability of the Julia sets, 5th Meeting of Young Number Theorists, Seoul (Republic of Korea), Dec. 2016.
+
+11. Junghune Lee, J-stability of expanding rational maps in non-Archimedean dynamics, RIMS workshop Complex dynamical systems and related topics, Kyoto (Japan), Dec. 2016.
+
+11. Junghun Lee, A. I. Suriajaya, Ergodic value distribution of zeta functions and L-functions, Number Theory Day, Würzburg (Germany), Aug. 2016.
+
+12. Junghune Lee, J-stability of expanding rational maps in non-Archimedean dynamics, RIMS workshop Integrated research on dynamical systems and related fields, Kyoto (Japan), Jun. 2016.
+
+13. Junghune Lee, J-stability of immediately expanding polynomial maps in non-Archimedean dynamics, 13th International Conference on p-adic Functional Analysis, Paderborn (Germany), Aug. 2014. 
+
+14. Junghun Lee, J-Stability of some polynomial maps in p-adic dynamics, Young Mathematician Workshop on Several Complex Variables 2014, Pohang (Republic of Korea), Aug. 2014.
+
+15. Junghun Lee, 数論力学系のゼータ関数, 2020年度冬の力学系研究集会, Karuizawa, Jan. 2019.
+
+16. Junghun Lee, A. I. Suriajaya, Applications of Birkhoff Ergodic Theorem to Zeta Functions and L-Functions, 量子論にまつわる数学と数論の連携探索2018, Tokyo, Mar. 2018.
+
+17. Junghun Lee, A. Sourmelidis, J. Steuding, A. I. Suriajaya, Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip, Nagoya University Analytic Number Theory Seminar, Nagoya, Feb. 2018.
+
+18. Junghun Lee, A. I. Suriajaya, An ergodic value distribution of zeta functions and L-functions, The 9th Meeting of Women in Number Theory Japan, Tokyo, May. 2016.
+
+19. Junghun Lee, A. I. Suriajaya, Applications of Birkhoff Ergodic Theorem to Zeta Functions and L-Functions, Workshop "Number Theory and Ergodic Theory" 2015, Kanazawa, Feb. 2016.
+20. Junghun Lee, J-stability of expanding maps in non-Archimedean dynamics, 2015年度冬の力学系研究集会, Karuizawa, Jan. 2016.
+
+21. Junghun Lee, A. I. Suriajaya, An ergodic value distribution of some class of zeta and L-functions, Nagoya University Analytic Number Theory Seminar, Nagoya, Oct. 2015.
+
+22. Junghun Lee, T. Onozuka, A. I. Suriajaya, Some probabilistic value distributions of the Riemann zeta function and its derivatives, MSJ Autumn Meeting 2015, Kyoto, Sep. 2015.
+
+23. Junghun Lee, J-Stability of immediately expanding rational maps in p-adic dynamics, 2014年度冬の力学系研究集会, Karuizawa, Jan. 2015.
+
+24. Junghune Lee, J-stability of immediately expanding polynomial maps in non-Archimedean dynamics, MSJ Autumn Meeting 2014, Hiroshima, Sep. 2014.
+
+## Poster
+
+1. Junghun Lee, J-Stability in non-Archimedean dynamics, Arithmetic 2015: Silvermania, Providence (USA), Aug. 2015.
+
+2. Junghun Lee, p進力学系理論と疑似乱数列生成, 数学・数理科学専攻若手研究者のための異分野・異業種研究交流会, Tokyo, Oct. 2014. 
