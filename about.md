@@ -1,8 +1,7 @@
 ---
 layout: single
 permalink: /about/
-title: "Who Am I (CV)"
+title: "About Me"
 ---
 
-
-Hello
+I am Junghun Lee
