@@ -1,8 +1,7 @@
 ---
 title : "Please check About or Research"
 category :
-    - Test
-usemathjax: true
+    - Notice
 toc: false
 author_profile: false
 ---
