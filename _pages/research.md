@@ -12,8 +12,6 @@ I pubilished few papers, and you can find it on arXiv.
 
 ## Reviewed
 
-
-
 ## Non-reviewed
 
 
