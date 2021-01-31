@@ -99,7 +99,7 @@ author:
   location         : "Tokyo, Japan"
   email            : "lee.j.ba@m.titech.ac.jp"
   links:
-    - label: "Email"
+    - label: "Email" 
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
@@ -279,3 +279,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+ # Build settings
+  markdown: kramdown
