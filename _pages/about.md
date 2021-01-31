@@ -1,11 +1,11 @@
 ---
 layout: single
-permalink: /about/
+permalink: /about/****
 title: "About"
 author_profile: true
 ---
 
-I am Junghun Lee, a mathematician.
+I am **Junghun Lee**, a **mathematician**.
 I belong to [Department of Mathematics, Tokyo Institute of Technology](https://educ.titech.ac.jp/math/eng/) as a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-fellow/postdoctoral.html).
 
 My reseach interest is [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_system), in particular, discrete dynamical systems related to arthimetic sides.
