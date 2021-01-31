@@ -2,18 +2,9 @@
 layout: single
 permalink: /research/
 title: "Reseach"
+toc: true
 ---
 
-# Dynamical systems
+# Papers
 
-# Discrete dynamical systems
-
-# Non-archimedean dynamical systems
-
-# Stability of dynamics on Julia set
-
-# Ergodic thoery
-
-# Zeta functions
-
-# 
+# Talks

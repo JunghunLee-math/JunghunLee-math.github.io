@@ -4,10 +4,10 @@ permalink: /about/
 title: "About"
 ---
 
-I am Junhung Lee, a mathematician.
+I am Junghun Lee, a mathematician.
 I belong to [Department of Mathematics, Tokyo Institute of Technology](https://educ.titech.ac.jp/math/eng/) as a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-fellow/postdoctoral.html).
 
-My reseach interests is [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_system), in particular, discrete dynamical systems related to arthimetic sides.
+My reseach interest is [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_system), in particular, discrete dynamical systems related to arthimetic sides.
 I have done a several work on non-archimedean dynamical systems, and also on applications of ergodic theory to analytic number theory.
 
 I was a [JSPS Fellow](https://www.jsps.go.jp/j-pd/pd_sin.html) from 2016 to 2017, and got my PhD degree in [Graduate School, Nagoya University](http://www.math.nagoya-u.ac.jp) in 2017.
