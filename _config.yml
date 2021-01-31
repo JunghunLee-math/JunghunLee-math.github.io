@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junghun Lee's website"
+title                    : "Junghun Lee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Junghun Lee"
-description              : "Junghun Lee's website"
+name                     : "Junghun"
+description              : "Junghun Lee"
 url                      : "https://junghunlee-math.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JunghunLee-math/JunghunLee-math.github.io"
