@@ -8,7 +8,7 @@ toc: true
 ## Papers
 
 I pubilished few papers,which can be found on arXiv.
-It is ordered as authours, title, journal, publishier, and etc.
+It is ordered as authors, title, journal, publishier, and etc.
 
 ### Submitted
 
