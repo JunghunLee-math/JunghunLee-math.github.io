@@ -2,17 +2,19 @@
 layout: single
 permalink: /research/
 title: "Reseach"
+toc: true
 ---
 
-# Papers
+## Papers
 
 I pubilished few papers,which can be found on arXiv.
 It is ordered as authours, title, journal, publishier, and etc.
-## Submitted
+
+### Submitted
 
 TBA
 
-## Reviewed
+### Reviewed
 
 1. Junghun Lee, A. Sourmelidis, J. Steuding, A. Suriajaya, THE VALUES OF THE RIEMANN ZETA-FUNCTION ON DISCRETE SETS, Adv. Stud. Pure Math., Mathematical Society of Japan, 84, 315-334, 2020
 
@@ -26,17 +28,17 @@ TBA
 
 6. Junghun Lee, An alternative proof of the non-Archimedean Montel theorem for polynomial dynamics, Advances in Non-Archimedean Analysis, Contemp. Math., American Mathematical Society, 665, 133-137, 2016
 
-## Non-reviewed
+### Non-reviewed
 
 1. Junghun Lee, The Artin-Mazur zeta functions of certain non-Archimedean dynamical systems, ArXiv:1505.04249 [math.DS]
 
-# Talks
+## Talks
 
 There were talks on the reserach I joined.
 It is ordered as authours, title, journal, publishier, and etc.
 The star mark(*) is put for the speaker.
 
-## Conference
+### Conference
 
 1. Robert L. Benedetto* and Junghune Lee, Hyperbolicity and J-stability in non-archimedean dynamics, AMS and MAA Joint Mathematical Meetings, Online, Jan. 2021.
 
@@ -87,7 +89,7 @@ The star mark(*) is put for the speaker.
 
 24. Junghune Lee, J-stability of immediately expanding polynomial maps in non-Archimedean dynamics, MSJ Autumn Meeting 2014, Hiroshima, Sep. 2014.
 
-## Poster
+### Poster
 
 1. Junghun Lee, J-Stability in non-Archimedean dynamics, Arithmetic 2015: Silvermania, Providence (USA), Aug. 2015.
 
