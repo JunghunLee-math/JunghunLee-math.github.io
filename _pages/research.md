@@ -11,7 +11,7 @@ Here I list up my papers, and it is ordered as authors, title, journal, publishe
 
 ### Submitted
 
-1. Robert L. Benedetto and Junghun Lee, $J$-Stability in non-archimedean dynamics,https://arxiv.org/abs/2102.05841
+1. Robert L. Benedetto and Junghun Lee, $J$-Stability in non-archimedean dynamics, https://arxiv.org/abs/2102.05841
 
 ### Reviewed
 
