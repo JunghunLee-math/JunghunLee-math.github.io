@@ -1,18 +1,17 @@
 ---
 layout: single
 permalink: /research/
-title: "Reseach"
+title: "Research"
 toc: true
 ---
 
 ## Papers
 
-I pubilished few papers,which can be found on arXiv.
-It is ordered as authors, title, journal, publishier, and etc.
+Here I list up my papers, and it is ordered as authors, title, journal, publisher, and etc.
 
 ### Submitted
 
-TBA
+1. Robert L. Benedetto and Junghun Lee, $J$-Stability in non-archimedean dynamics,https://arxiv.org/abs/2102.05841
 
 ### Reviewed
 
