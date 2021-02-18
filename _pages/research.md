@@ -12,12 +12,14 @@ Here I list up my papers, and it is ordered as authors, title, journal, publishe
 ### Submitted
 
 <ul>
-{% for org_hash in site.data.research %}
-{% assign org = org_hash[1] %}
+{% for paper in site.data.research.research_papers_210205 %}
+<!-- {% for research in site.data.research %} -->
+<!-- {% assign org = org_hash[1] %} -->
   <li>
-    <a href="https://github.com/{{ org.link }}">
+  {{paper.authors[0]}}
+    <!-- <a href="https://github.com/{{ org.link }}">
       {{ org.authors }}
-    </a>
+    </a> -->
     <!-- ({{ org.members | size }} members) -->
   </li>
 {% endfor %}
