@@ -5,14 +5,6 @@ title: "Research"
 toc: true
 ---
 
-## Papers
-
-Here I list up my papers, and it is ordered as authors, title, journal, publisher, and etc.
-
-### Submitted
-
-<ul>
-
 {% for paper in site.data.research.research_papers_210205 %}
 <!-- {% for research in site.data.research %} -->
 <!-- {% assign org = org_hash[1] %} -->
@@ -20,7 +12,12 @@ Here I list up my papers, and it is ordered as authors, title, journal, publishe
   {{paper}}
   </li>
 {% endfor %}
-</ul>
+
+<!-- ## Papers
+
+Here I list up my papers, and it is ordered as authors, title, journal, publisher, and etc.
+
+### Submitted -->
 
 <!-- 1. Robert L. Benedetto and Junghun Lee, $J$-Stability in non-archimedean dynamics, https://arxiv.org/abs/2102.05841
 
