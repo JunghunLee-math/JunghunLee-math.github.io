@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I am **Junghun Lee**, a **mathematician**.
-I am currently a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-fellow/postdoctoral.html) at [Department of Mathematics, Tokyo Institute of Technology](https://educ.titech.ac.jp/math/eng/).
+I am currently a [JSPS postdoctoral fellow](https://www.jsps.go.jp/english/e-fellow/postdoctoral.html) at [Department of Mathematics, Tokyo Institute of Technology](https://educ.titech.ac.jp/math/eng/).
 
 My research interest is [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_system), in particular, the arithmetic aspects of discrete dynamical systems.
 I have done several work on non-archimedean dynamical systems, in particular, the dynamics on the [Julia sets](https://en.wikipedia.org/wiki/Julia_set).
