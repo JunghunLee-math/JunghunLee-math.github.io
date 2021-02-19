@@ -28,7 +28,7 @@ toc: true
         {{paper.journal.number}}, 
         {{paper.journal.pages}}, 
         {{paper.journal.year}}
-    {% elsif paper.state == "arxiv" %}
+    {% elsif paper.state == "arXiv" %}
         <a href="{{ paper.links.arXiv }}">
             {{paper.journal.name}}
         </a>, 
