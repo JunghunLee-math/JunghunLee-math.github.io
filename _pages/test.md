@@ -27,7 +27,7 @@ Here I list up my papers, and it is ordered as authors, title, journal, publishe
         {{paper.journal.number}}, 
         {{paper.journal.pages}}, 
         {{paper.journal.year}}   
-    {% elsif page.platform == "arxiv" %}
+    {% elsif paper.state == "arxiv" %}
         <a href="{{ paper.links.arxiv }}">
             {{paper.journal.name}}
         </a>, 
