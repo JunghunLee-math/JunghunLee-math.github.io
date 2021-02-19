@@ -13,9 +13,9 @@ Here I list up my papers, and it is ordered as authors, title, journal, publishe
 
 {% for paper in site.data.research.papers %}
   <li>
-    {% for author in {{paper.authors}} %}
+    {% for author in paper.authors %}
         {{author}},
-    {% endfor}
+    {% endfor %}
     {{paper.title}}, 
     {{paper.journal.name}},
     <a href="{{ paper.links.journal }}">
