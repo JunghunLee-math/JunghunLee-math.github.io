@@ -16,13 +16,21 @@ Here I list up my papers, and it is ordered as authors, title, journal, publishe
     {% for author in paper.authors %}
         {{author}},
     {% endfor %}
-    {{paper.title}}, 
-    {{paper.journal.name}},
-    <a href="{{ paper.links.journal }}">
-    {{paper.journal.publisher}}
+    <a href="{{ paper.links.arxiv }}">
+    {{paper.title}}
     </a>,
-    {{paper.journal.number}}, 
-    {{paper.journal.pages}}, 
-    {{paper.journal.year}}
+    {% if paper.state == "published" %}
+        {{paper.journal.name}},
+        <a href="{{ paper.links.journal }}">
+        {{paper.journal.publisher}}
+        </a>,
+        {{paper.journal.number}}, 
+        {{paper.journal.pages}}, 
+        {{paper.journal.year}}   
+    {% elsif page.platform == "arxiv" %}
+        <a href="{{ paper.links.arxiv }}">
+            {{paper.journal.name}}
+        </a>, 
+    {% endif %}
   </li>
 {% endfor %}
