@@ -14,7 +14,7 @@ toc: true
     {% for author in paper.authors %}
         {{author}},
     {% endfor %}
-    {% if paper.links.arXiv === "" %}
+    {% if paper.links.arXiv == "" %}
         {{paper.title}},
     {% else %}
         <a href="{{ paper.links.arXiv }}">
@@ -47,7 +47,7 @@ toc: true
         {{author}},
     {% endfor %}
     {{talk.title}},
-    {% if talk.talk.link === "" %}
+    {% if talk.talk.link == "" %}
         {{talk.talk.name}},
     {% else %}
         <a href="{{ talk.talk.link }}">
