@@ -5,8 +5,14 @@ title: "test"
 toc: true
 ---
 
+
+## Papers
+
+Here I list up my papers, and it is ordered as authors, title, journal, publisher, and etc.
+
+
 {% for paper in site.data.research.papers %}
   <li>
-  {{paper.state}}
+  {{paper.authors}.join(', ')}, {{paper.title}}, {{paper.journal.name}}, {{paper.journal.publisher}}, {{paper.journal.number}}, {{paper.journal.pages}}, {{paper.journal.year}}
   </li>
 {% endfor %}
