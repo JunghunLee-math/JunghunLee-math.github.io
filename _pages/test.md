@@ -7,6 +7,6 @@ toc: true
 
 {% for paper in site.data.research.papers %}
   <li>
-  {{paper}}
+  {{paper.state}}
   </li>
 {% endfor %}
