@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /research/
+permalink: /test/
 title: "test"
 toc: true
 ---
