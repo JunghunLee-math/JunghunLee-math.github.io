@@ -16,7 +16,7 @@ toc: true
     {% for author in paper.authors %}
         {{author}},
     {% endfor %}
-    {% if !paper.links.arxiv.empty %}
+    {% if paper.links.arxiv.nil %}
         <a href="{{ paper.links.arxiv }}">
         {{paper.title}}
         </a>,
