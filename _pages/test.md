@@ -47,13 +47,12 @@ toc: true
         {{author}},
     {% endfor %}
     {{talk.title}},
-    {% if talk.talk.link.blank? %}
-        {{talk.talk.link.blank?}}
-        {{talk.talk.name}}
-    {% else %}
+    {% if talk.talk.link %}
         <a href="{{ talk.talk.link }}">
             {{talk.talk.name}}
         </a>,
+    {% else %}
+        {{talk.talk.name}}
     {% endif %}
     {{talk.talk.place.city}} ({{talk.talk.place.country}}),
     {{talk.talk.date.month}} {{talk.talk.date.year}}
