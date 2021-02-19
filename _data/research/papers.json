@@ -1,124 +1,124 @@
 [
   {
-    "title": "$J$-Stability in non-archimedean dynamics",
-    "state": "arXiv",
-    "links": { "arXiv": ",https://arxiv.org/abs/2102.05841", "journal": "" },
     "journal": {
       "name": "arXiv:2102.05841 [math.DS]",
-      "number": "",
       "year": "2021",
+      "pages": "",
       "publisher": "",
-      "pages": ""
+      "number": ""
     },
-    "authors": ["Robert L. Benedetto", "Junghun Lee"]
+    "authors": ["Robert L. Benedetto", "Junghun Lee"],
+    "state": "arXiv",
+    "links": { "journal": "", "arXiv": ",https://arxiv.org/abs/2102.05841" },
+    "title": "$J$-Stability in non-archimedean dynamics"
   },
   {
-    "links": {
-      "arXiv": "https://arxiv.org/abs/1710.11367",
-      "journal": "https://projecteuclid.org/euclid.aspm/1590597092"
-    },
     "journal": {
-      "name": "Adv. Stud. Pure Math.",
       "pages": "315-334",
       "number": "84",
+      "year": "2020",
       "publisher": "Mathematical Society of Japan",
-      "year": "2020"
+      "name": "Adv. Stud. Pure Math."
     },
     "title": "THE VALUES OF THE RIEMANN ZETA-FUNCTION ON DISCRETE SETS",
-    "state": "published",
-    "authors": ["Junghun Lee", "A. Sourmelidis", "J. Steuding", "A. Suriajaya"]
+    "links": {
+      "journal": "https://projecteuclid.org/euclid.aspm/1590597092",
+      "arXiv": "https://arxiv.org/abs/1710.11367"
+    },
+    "authors": ["Junghun Lee", "A. Sourmelidis", "J. Steuding", "A. Suriajaya"],
+    "state": "published"
   },
   {
-    "authors": ["Junghun Lee"],
     "state": "published",
     "journal": {
-      "pages": "1002-1019",
-      "name": "Ergo. Th. & Dynam. Sys.",
-      "publisher": "Cambridge University Press",
+      "number": "39",
       "year": "2019",
-      "number": "39"
+      "pages": "1002-1019",
+      "publisher": "Cambridge University Press",
+      "name": "Ergo. Th. & Dynam. Sys."
     },
     "links": {
       "arXiv": "",
       "journal": "https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/j-stability-of-expanding-maps-in-nonarchimedean-dynamics/6ED1A3C12C31389C11CCDD305052BD2D"
     },
+    "authors": ["Junghun Lee"],
     "title": "$J$-stability of expanding maps in non-Archimedean dynamics"
   },
   {
-    "title": "An ergodic value distribution of certain meromorphic functions",
     "state": "published",
-    "journal": {
-      "number": "445",
-      "pages": "125-138",
-      "name": "J. Math. Anal. Appl.",
-      "year": "2017",
-      "publisher": "Elsevier"
-    },
     "authors": ["Junghun Lee", "A. Suriajaya"],
+    "journal": {
+      "name": "J. Math. Anal. Appl.",
+      "publisher": "Elsevier",
+      "pages": "125-138",
+      "year": "2017",
+      "number": "445"
+    },
+    "title": "An ergodic value distribution of certain meromorphic functions",
     "links": {
       "arXiv": "https://arxiv.org/abs/1512.04169",
       "journal": "https://www.sciencedirect.com/science/article/pii/S0022247X16303882"
     }
   },
   {
-    "title": "An alternative proof of the non-Archimedean Montel theorem for polynomial dynamics, Advances in Non-Archimedean Analysis",
-    "authors": ["Junghun Lee"],
     "state": "published",
+    "journal": {
+      "name": "Contemp. Math.",
+      "year": "2016",
+      "publisher": "American Mathematical Society",
+      "pages": "133-137",
+      "number": "665"
+    },
+    "authors": ["Junghun Lee"],
     "links": {
       "arXiv": "https://arxiv.org/pdf/1505.05611.pdf",
       "journal": "https://www.ams.org/books/conm/665/"
     },
-    "journal": {
-      "year": "2016",
-      "number": "665",
-      "publisher": "American Mathematical Society",
-      "pages": "133-137",
-      "name": "Contemp. Math."
-    }
+    "title": "An alternative proof of the non-Archimedean Montel theorem for polynomial dynamics, Advances in Non-Archimedean Analysis"
   },
   {
-    "authors": ["Junghun Lee", "T. Onozuka", "A. Suriajaya"],
     "links": {
       "arXiv": "",
       "journal": "https://projecteuclid.org/euclid.pja/1469104540"
     },
-    "state": "published",
     "journal": {
-      "year": "2016",
+      "name": "Proc. Japan Acad. Ser. A Math. Sci.",
       "publisher": "The Japan Academy",
       "pages": "82-83",
       "number": "92 no.7",
-      "name": "Proc. Japan Acad. Ser. A Math. Sci."
+      "year": "2016"
     },
+    "authors": ["Junghun Lee", "T. Onozuka", "A. Suriajaya"],
+    "state": "published",
     "title": "Some probabilistic value distributions of the Riemann Zeta function and its derivatives"
   },
   {
-    "authors": ["Junghun Lee"],
-    "journal": {
-      "number": "92 no.4",
-      "pages": "56-58",
-      "year": "2016",
-      "publisher": "The Japan Academy",
-      "name": "Proc. Japan Acad. Ser. A Math. Sci."
-    },
-    "state": "published",
     "links": {
-      "arXiv": "",
-      "journal": "https://projecteuclid.org/euclid.pja/1459516320"
+      "journal": "https://projecteuclid.org/euclid.pja/1459516320",
+      "arXiv": ""
     },
-    "title": "An alternative proof of the non-Archimedean Montel theorem for rational dynamics"
+    "journal": {
+      "pages": "56-58",
+      "number": "92 no.4",
+      "year": "2016",
+      "name": "Proc. Japan Acad. Ser. A Math. Sci.",
+      "publisher": "The Japan Academy"
+    },
+    "title": "An alternative proof of the non-Archimedean Montel theorem for rational dynamics",
+    "state": "published",
+    "authors": ["Junghun Lee"]
   },
   {
     "authors": ["Junghun Lee"],
-    "links": { "arXiv": "https://arxiv.org/abs/1505.04249", "journal": "" },
-    "title": "The Artin-Mazur zeta functions of certain non-Archimedean dynamical systems",
+    "links": { "journal": "", "arXiv": "https://arxiv.org/abs/1505.04249" },
     "state": "arXiv",
+    "title": "The Artin-Mazur zeta functions of certain non-Archimedean dynamical systems",
     "journal": {
-      "year": "2015",
       "publisher": "",
-      "name": "ArXiv:1505.04249 [math.DS]",
       "number": "",
-      "pages": ""
+      "pages": "",
+      "name": "ArXiv:1505.04249 [math.DS]",
+      "year": "2015"
     }
   }
 ]
