@@ -30,7 +30,7 @@ toc: true
         {{paper.journal.pages}}, 
         {{paper.journal.year}}
     {% elsif paper.state == "arxiv" %}
-        <a href="{{ paper.links.arxiv }}">
+        <a href="{{ paper.links.arXiv }}">
             {{paper.journal.name}}
         </a>, 
     {% endif %}
@@ -54,7 +54,11 @@ toc: true
     {% else %}
         {{talk.talk.name}}
     {% endif %}
-    {{talk.talk.place.city}} ({{talk.talk.place.country}}),
+    {% if talk.talk.place.state == "online" %}
+        {{talk.talk.place.state}}
+    {% else %}
+        {{talk.talk.place.city}} ({{talk.talk.place.country}}),
+    {% endif %}
     {{talk.talk.date.month}} {{talk.talk.date.year}}
   </li>
 {% endfor %}
