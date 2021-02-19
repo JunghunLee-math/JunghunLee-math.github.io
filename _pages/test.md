@@ -8,20 +8,18 @@ toc: true
 
 ## Papers
 
-### Published
-
 <ol>
 {% for paper in site.data.research.papers %}
   <li>
     {% for author in paper.authors %}
         {{author}},
     {% endfor %}
-    {% if paper.links.arxiv %}
-        <a href="{{ paper.links.arxiv }}">
-        {{paper.title}}
-        </a>,
-    {% else %}
+    {% if paper.links.arxiv.blank? %}
         {{paper.title}},
+    {% else %}
+        <a href="{{ paper.links.arxiv }}">
+            {{paper.title}}
+        </a>,
     {% endif %}    
     {% if paper.state == "published" %}
         <a href="{{ paper.links.journal }}">
