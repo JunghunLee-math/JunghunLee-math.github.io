@@ -13,7 +13,7 @@ Here I list up my papers, and it is ordered as authors, title, journal, publishe
 
 {% for paper in site.data.research.papers %}
   <li>
-    {% {{paper.authors}}.join(', ') %}, 
+    {% paper.authors.join(', ') %}, 
     {{paper.title}}, 
     {{paper.journal.name}},
     <a href="{{ paper.links.journal }}">
