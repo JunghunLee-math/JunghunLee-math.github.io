@@ -9,9 +9,9 @@ toc: true
 ## Papers
 
 <ol>
-{% for talk in site.data.research.papers %}
+{% for paper in site.data.research.papers %}
   <li>
-    {% for author in talk.authors %}
+    {% for author in paper.authors %}
         {{author}},
     {% endfor %}
     {% if paper.links.arXiv.blank? %}
