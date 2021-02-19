@@ -40,26 +40,18 @@ toc: true
 
 ## Talks
 
+<ol>
 {% for talk in site.data.research.talks %}
   <li>
     {% for author in talk.authors %}
         {{author}},
     {% endfor %}
-    <a href="{{ paper.links.arxiv }}">
-    {{paper.title}}
-    </a>,
-    {% if paper.state == "published" %}
-        {{paper.journal.name}},
-        <a href="{{ paper.links.journal }}">
-        {{paper.journal.publisher}}
-        </a>,
-        {{paper.journal.number}}, 
-        {{paper.journal.pages}}, 
-        {{paper.journal.year}}   
-    {% elsif paper.state == "arxiv" %}
-        <a href="{{ paper.links.arxiv }}">
-            {{paper.journal.name}}
-        </a>, 
-    {% endif %}
+    {{talk.title}},
+    <a href="{{ talk.talk.link }}">
+        {{talk.talk.name}},
+    </a>
+    {{talk.talk.place.city}} ({{talk.talk.place.country}}),
+    {{talk.talk.date.month}} {{talk.talk.date.year}}
   </li>
 {% endfor %}
+</ol>
