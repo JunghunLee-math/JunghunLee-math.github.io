@@ -31,7 +31,7 @@ toc: true
     {% elsif paper.state == "arXiv" %}
         <a href="{{ paper.links.arXiv }}">
             {{paper.journal.name}}
-        </a>, 
+        </a>
     {% endif %}
   </li>
 {% endfor %}
