@@ -41,7 +41,7 @@ toc: true
 ## Talks
 
 <ol>
-{% assign sorted = site.data.research.talks.sort_by! { |k| k.talk.date["year"]} %}
+{% assign sorted = site.data.research.talks.sort_by! { |k| k.talk.date.year} %}
 {% for talk in sorted %}
   <li>
     {% for author in talk.authors %}
