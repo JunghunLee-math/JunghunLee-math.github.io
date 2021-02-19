@@ -16,9 +16,13 @@ toc: true
     {% for author in paper.authors %}
         {{author}},
     {% endfor %}
-    <a href="{{ paper.links.arxiv }}">
-    {{paper.title}}
-    </a>,
+    {% if !paper.links.arxiv.empty %}
+        <a href="{{ paper.links.arxiv }}">
+        {{paper.title}}
+        </a>,
+    {% else %}
+        {{paper.title}},
+    {% endif %}    
     {% if paper.state == "published" %}
         {{paper.journal.name}},
         <a href="{{ paper.links.journal }}">
