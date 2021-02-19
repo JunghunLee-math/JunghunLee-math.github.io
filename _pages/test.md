@@ -14,7 +14,7 @@ toc: true
     {% for author in paper.authors %}
         {{author}},
     {% endfor %}
-    {% if paper.links.arXiv.blank? %}
+    {% if paper.links.arXiv === "" %}
         {{paper.title}},
     {% else %}
         <a href="{{ paper.links.arXiv }}">
@@ -47,15 +47,15 @@ toc: true
         {{author}},
     {% endfor %}
     {{talk.title}},
-    {% if talk.talk.link %}
+    {% if talk.talk.link === "" %}
+        {{talk.talk.name}},
+    {% else %}
         <a href="{{ talk.talk.link }}">
             {{talk.talk.name}}
         </a>,
-    {% else %}
-        {{talk.talk.name}}
     {% endif %}
     {% if talk.talk.place.state == "online" %}
-        {{talk.talk.place.state}}
+        {{talk.talk.place.state}},
     {% else %}
         {{talk.talk.place.city}} ({{talk.talk.place.country}}),
     {% endif %}
