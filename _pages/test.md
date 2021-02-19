@@ -41,8 +41,12 @@ toc: true
 ## Talks
 
 <ol>
-{% assign sorted = site.data.research.talks.sort_by { |k| k.talk.date.year} %}
-{% for talk in sorted %}
+{% for talk in site.data.research.talks %}
+{% assign years = [] %}
+{% years.push(talk.talk.date.year) %}
+{% endfor %}
+{{years}}
+<!-- {% for talk in site.data.research.talks %}
   <li>
     {% for author in talk.authors %}
         {{author}},
@@ -62,5 +66,5 @@ toc: true
     {% endif %}
     {{talk.talk.date.month}} {{talk.talk.date.year}}
   </li>
-{% endfor %}
+{% endfor %} -->
 </ol>
