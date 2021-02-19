@@ -9,9 +9,9 @@ toc: true
 ## Papers
 
 <ol>
-{% for paper in site.data.research.papers %}
+{% for talk in site.data.research.papers %}
   <li>
-    {% for author in paper.authors %}
+    {% for author in talk.authors %}
         {{author}},
     {% endfor %}
     {% if paper.links.arXiv.blank? %}
@@ -48,6 +48,7 @@ toc: true
     {% endfor %}
     {{talk.title}},
     {% if talk.talk.link.blank? %}
+        {{talk.talk.link.blank?}}
         {{talk.talk.name}}
     {% else %}
         <a href="{{ talk.talk.link }}">
