@@ -1,47 +1,46 @@
 [
   {
+    "state": "",
+    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip",
     "authors": [
       "A. I. Suriajaya",
       "Junghun Lee",
       "A. Sourmelidis",
       "J. Steuding"
     ],
-    "state": "",
     "talk": {
+      "name": "The 15th Canadian Number Theory Association Conference",
+      "place": { "city": "Quebec", "state": "offline", "country": "Canada" },
       "type": "internatioanl",
       "link": "https://archimede.mat.ulaval.ca/CNTA2018/",
-      "place": { "city": "Quebec", "country": "Canada", "state": "offline" },
-      "name": "The 15th Canadian Number Theory Association Conference",
       "date": { "month": "July", "day": "13", "year": "2018" }
-    },
-    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip"
+    }
   },
   {
-    "title": "Ergodic value distribution of meromorphic functions",
     "state": "",
+    "title": "Ergodic value distribution of meromorphic functions",
     "talk": {
-      "name": "30th Journées Arithmétiques, Caen (France)",
-      "type": "internatioanl",
+      "link": "https://conf.lmno.cnrs.fr/Ja2017/english.php",
       "place": { "state": "online", "country": "France", "city": "Caen" },
       "date": { "day": "7", "month": "July", "year": "2017" },
-      "link": "https://conf.lmno.cnrs.fr/Ja2017/english.php"
+      "name": "30th Journées Arithmétiques, Caen (France)",
+      "type": "internatioanl"
     },
     "authors": ["A. I. Suriajaya", "Junghun Lee"]
   },
   {
-    "title": "$J$-Stability of immediately expanding rational maps in $p$-adic dynamic",
-    "authors": ["Junghun Lee"],
     "talk": {
+      "link": "",
       "place": { "city": "Kanazawa", "state": "offline", "country": "Japan" },
       "type": "natioanl",
-      "date": { "day": "", "month": "January", "year": "2015" },
       "name": "2014年度冬の力学系研究集会",
-      "link": ""
+      "date": { "month": "January", "day": "", "year": "2015" }
     },
-    "state": ""
+    "state": "",
+    "authors": ["Junghun Lee"],
+    "title": "$J$-Stability of immediately expanding rational maps in $p$-adic dynamic"
   },
   {
-    "state": "invited",
     "authors": [
       "A. I. Suriajaya",
       "Junghun Lee",
@@ -50,83 +49,84 @@
     ],
     "talk": {
       "name": "Various Aspects of Multiple Zeta Functions –– Conference in Honor of Kohji Matsumoto’s 60th Birthday",
-      "link": "https://sites.google.com/site/kohjimatsumoto60/english",
       "type": "internatioanl",
-      "date": { "month": "August", "year": "2017", "day": "22" },
-      "place": { "country": "Japan", "state": "offline", "city": "Nagoya" }
+      "place": { "state": "offline", "country": "Japan", "city": "Nagoya" },
+      "date": { "year": "2017", "month": "August", "day": "22" },
+      "link": "https://sites.google.com/site/kohjimatsumoto60/english"
     },
-    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip"
+    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip",
+    "state": "invited"
   },
   {
     "state": "",
     "talk": {
       "name": "2020年度冬の力学系研究集会",
-      "date": { "month": "January", "day": "6", "year": "2019" },
       "link": "",
+      "date": { "day": "6", "month": "January", "year": "2019" },
       "place": { "state": "offline", "city": "Karuizawa", "country": "Japan" },
       "type": "natioanl"
     },
-    "authors": ["Junghun Lee"],
-    "title": "数論力学系のゼータ関数"
+    "title": "数論力学系のゼータ関数",
+    "authors": ["Junghun Lee"]
   },
   {
-    "state": "",
     "title": "An ergodic value distribution of some class of zeta and $L$-functions",
-    "authors": ["A. I. Suriajaya", "Junghun Lee"],
     "talk": {
-      "link": "",
-      "date": { "year": "2015", "month": "October", "day": "" },
-      "place": { "state": "offline", "city": "Nagoya", "country": "Japan" },
       "name": "Nagoya University Analytic Number Theory Seminar",
+      "link": "",
+      "date": { "month": "October", "day": "", "year": "2015" },
+      "place": { "city": "Nagoya", "state": "offline", "country": "Japan" },
       "type": "natioanl"
-    }
+    },
+    "state": "",
+    "authors": ["A. I. Suriajaya", "Junghun Lee"]
   },
   {
     "talk": {
-      "date": { "day": "8", "month": "June", "year": "2016" },
+      "place": { "state": "offline", "city": "Kyoto", "country": "Japan" },
+      "link": "http://www.kurims.kyoto-u.ac.jp/~kyodo/pastworkshops/workshop2016-en.html",
       "name": "RIMS workshop `Integrated research on dynamical systems and related fields`",
-      "place": { "city": "Kyoto", "country": "Japan", "state": "offline" },
-      "type": "internatioanl",
-      "link": "http://www.kurims.kyoto-u.ac.jp/~kyodo/pastworkshops/workshop2016-en.html"
+      "date": { "day": "8", "year": "2016", "month": "June" },
+      "type": "internatioanl"
     },
-    "authors": ["Junghun Lee"],
     "title": "$J$-stability of expanding rational maps in non-Archimedean dynamics",
+    "authors": ["Junghun Lee"],
     "state": ""
   },
   {
-    "state": "",
     "authors": ["Junghun Lee"],
-    "title": "$J$-stability of expanding rational maps in non-Archimedean dynamics",
+    "state": "",
     "talk": {
-      "link": "http://www.kurims.kyoto-u.ac.jp/~kyodo/okuyama20161207.pdf",
-      "type": "internatioanl",
+      "date": { "month": "December", "year": "2016", "day": "12" },
       "name": "RIMS workshop `Complex dynamical systems and related topics`",
-      "date": { "day": "12", "year": "2016", "month": "December" },
-      "place": { "state": "offline", "country": "Japan", "city": "Kyoto" }
-    }
+      "link": "http://www.kurims.kyoto-u.ac.jp/~kyodo/okuyama20161207.pdf",
+      "place": { "state": "offline", "city": "Kyoto", "country": "Japan" },
+      "type": "internatioanl"
+    },
+    "title": "$J$-stability of expanding rational maps in non-Archimedean dynamics"
   },
   {
     "authors": ["A. I. Suriajaya", "Junghun Lee"],
-    "talk": {
-      "date": { "month": "Feburary", "year": "2016", "day": "" },
-      "place": { "country": "Japan", "city": "Kanazawa", "state": "offline" },
-      "link": "",
-      "type": "natioanl",
-      "name": "Workshop `Number Theory and Ergodic Theory`"
-    },
     "state": "",
+    "talk": {
+      "name": "Workshop `Number Theory and Ergodic Theory`",
+      "type": "natioanl",
+      "date": { "day": "", "month": "Feburary", "year": "2016" },
+      "place": { "state": "offline", "city": "Kanazawa", "country": "Japan" },
+      "link": ""
+    },
     "title": "Applications of Birkhoff Ergodic Theorem to Zeta Functions and $L$-Functions"
   },
   {
-    "state": "",
     "talk": {
       "type": "internatioanl",
+      "link": "http://ntw.amu.edu.pl",
       "name": "Number Theory Week 2017 – A conference on the occasion of the 60th birthday of Jerzy Kaczorowski",
-      "date": { "day": "4", "month": "September", "year": "2017" },
       "place": { "state": "offline", "city": "Poznan", "country": "Poland" },
-      "link": "http://ntw.amu.edu.pl"
+      "date": { "day": "4", "month": "September", "year": "2017" }
     },
     "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip",
+    "state": "",
     "authors": [
       "A. I. Suriajaya",
       "Junghun Lee",
@@ -135,38 +135,38 @@
     ]
   },
   {
-    "title": "Hyperbolicity and $J$-stability in non-archimedean dynamics",
     "authors": ["Robert L. Benedetto", "Junghune Lee"],
     "state": "invited",
     "talk": {
-      "link": "https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3592",
       "name": "AMS and MAA Joint Mathematical Meetings",
+      "link": "https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3592",
       "type": "internatioanl",
-      "place": { "state": "online", "country": "", "city": "" },
+      "place": { "state": "online", "city": "", "country": "" },
       "date": {
         "day": "10",
-        "standard": "JST",
         "year": "2021",
+        "standard": "JST",
         "month": "January"
       }
-    }
+    },
+    "title": "Hyperbolicity and $J$-stability in non-archimedean dynamics"
   },
   {
-    "authors": ["Junghune Lee", "Robert L. Benedetto"],
-    "title": "Hyperbolicity and $J$-stability in non-archimedean dynamics",
-    "state": "invited",
     "talk": {
-      "type": "internatioanl",
-      "date": {
-        "month": "December",
-        "standard": "JST",
-        "year": "2020",
-        "day": "7"
-      },
+      "name": "RIMS workshop `Complex Dynamics and Related Topics`",
       "link": "https://sites.google.com/view/rims-cpx-dyn2020",
-      "place": { "state": "online", "city": "", "country": "" },
-      "name": "RIMS workshop `Complex Dynamics and Related Topics`"
-    }
+      "date": {
+        "day": "7",
+        "year": "2020",
+        "standard": "JST",
+        "month": "December"
+      },
+      "place": { "country": "", "city": "", "state": "online" },
+      "type": "internatioanl"
+    },
+    "state": "invited",
+    "title": "Hyperbolicity and $J$-stability in non-archimedean dynamics",
+    "authors": ["Junghune Lee", "Robert L. Benedetto"]
   },
   {
     "authors": [
@@ -175,156 +175,139 @@
       "A. Sourmelidis",
       "J. Steuding"
     ],
+    "state": "invited",
+    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip",
     "talk": {
-      "type": "internatioanl",
+      "name": "RIMS Workshop `Analytic Number Theory and Related Topics`",
       "link": "https://sites.google.com/view/rimsanalyticnumbertheory2018/ホーム",
       "date": { "month": "October", "year": "2018", "day": "31" },
-      "place": { "city": "Kyoto", "country": "Japan", "state": "offline" },
-      "name": "RIMS Workshop `Analytic Number Theory and Related Topics`"
-    },
-    "state": "invited",
-    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip"
-  },
-  {
-    "state": "invited",
-    "title": "Applications of Birkhoff Ergodic Theorem to Zeta Functions and $L$-Functions",
-    "authors": ["A. I. Suriajaya", "Junghun Lee"],
-    "talk": {
-      "date": { "year": "2018", "day": "3", "month": "March" },
-      "link": "https://sites.google.com/view/qa2018/",
-      "place": { "state": "offline", "country": "Japan", "city": "Tokyo" },
-      "name": "量子論にまつわる数学と数論の連携探索2018",
-      "type": "natioanl"
+      "place": { "state": "offline", "country": "Japan", "city": "Kyoto" },
+      "type": "internatioanl"
     }
   },
   {
-    "authors": ["Junghun Lee"],
-    "state": "",
+    "state": "invited",
+    "authors": ["A. I. Suriajaya", "Junghun Lee"],
     "talk": {
-      "link": "https://mathsoc.jp/en/meeting/hiroshima14sept/",
-      "place": { "state": "offline", "city": "Hiroshima", "country": "Japan" },
-      "type": "MSJ",
-      "date": { "month": "September", "day": "25", "year": "2014" },
-      "name": "MSJ Autumn Meeting 2014"
+      "place": { "country": "Japan", "city": "Tokyo", "state": "offline" },
+      "type": "natioanl",
+      "link": "https://sites.google.com/view/qa2018/",
+      "name": "量子論にまつわる数学と数論の連携探索2018",
+      "date": { "month": "March", "year": "2018", "day": "3" }
     },
+    "title": "Applications of Birkhoff Ergodic Theorem to Zeta Functions and $L$-Functions"
+  },
+  {
+    "authors": ["Junghun Lee"],
+    "talk": {
+      "type": "MSJ",
+      "name": "MSJ Autumn Meeting 2014",
+      "place": { "city": "Hiroshima", "country": "Japan", "state": "offline" },
+      "link": "https://mathsoc.jp/en/meeting/hiroshima14sept/",
+      "date": { "day": "25", "month": "September", "year": "2014" }
+    },
+    "state": "",
     "title": "$J$-stability of immediately expanding polynomial maps in non-Archimedean dynamics"
   },
   {
     "talk": {
-      "name": "5th Meeting of Young Number Theorists",
-      "type": "internatioanl",
-      "link": "http://home.kias.re.kr/MKG/h/The5thMYNT/?pageNo=2461",
       "place": {
         "country": "Republic of Korea",
-        "city": "Seoul",
-        "state": "offline"
+        "state": "offline",
+        "city": "Seoul"
       },
-      "date": { "day": "21", "year": "2016", "month": "December" }
+      "link": "http://home.kias.re.kr/MKG/h/The5thMYNT/?pageNo=2461",
+      "date": { "day": "21", "month": "December", "year": "2016" },
+      "name": "5th Meeting of Young Number Theorists",
+      "type": "internatioanl"
     },
     "title": "Arithmetic dynamics: structural stability of the Julia set",
     "state": "invited",
     "authors": ["Junghun Lee"]
   },
   {
-    "authors": ["Junghun Lee"],
-    "title": "$p$進力学系理論と疑似乱数列生成",
     "talk": {
-      "type": "poster",
       "place": { "city": "Tokyo", "state": "offline", "country": "Japan" },
+      "type": "poster",
+      "date": { "day": "25", "month": "October", "year": "2014" },
       "name": "数学・数理科学専攻若手研究者のための異分野・異業種研究交流会",
-      "link": "http://mathsoc.jp/administration/career/kouryukai.html",
-      "date": { "month": "October", "day": "25", "year": "2014" }
+      "link": "http://mathsoc.jp/administration/career/kouryukai.html"
     },
-    "state": ""
+    "state": "",
+    "title": "$p$進力学系理論と疑似乱数列生成",
+    "authors": ["Junghun Lee"]
   },
   {
-    "state": "invited",
-    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip",
+    "talk": {
+      "place": {
+        "state": "offline",
+        "country": "Lithuania",
+        "city": "Palanga"
+      },
+      "name": "International Conference on Number Theory Dedicated to the 70th Birthdays of Professors Antanas Laurinčikas and Eugenijus Manstavičius",
+      "link": "http://numbertheory.lt",
+      "date": { "year": "2018", "day": "14", "month": "September" },
+      "type": "internatioanl"
+    },
     "authors": [
       "A. I. Suriajaya",
       "Junghun Lee",
       "A. Sourmelidis",
       "J. Steuding"
     ],
-    "talk": {
-      "type": "internatioanl",
-      "place": {
-        "state": "offline",
-        "city": "Palanga",
-        "country": "Lithuania"
-      },
-      "name": "International Conference on Number Theory Dedicated to the 70th Birthdays of Professors Antanas Laurinčikas and Eugenijus Manstavičius",
-      "link": "http://numbertheory.lt",
-      "date": { "month": "September", "year": "2018", "day": "14" }
-    }
+    "state": "invited",
+    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip"
   },
   {
-    "title": "An ergodic value distribution of zeta functions and $L$-functions",
-    "authors": ["A. I. Suriajaya", "Junghun Lee"],
     "talk": {
       "place": { "state": "offline", "city": "Tokyo", "country": "Japan" },
-      "link": "",
       "name": "The 9th Meeting of Women in Number Theory",
       "type": "natioanl",
-      "date": { "month": "May", "day": "", "year": "2016" }
+      "date": { "month": "May", "day": "", "year": "2016" },
+      "link": ""
     },
-    "state": ""
+    "state": "",
+    "title": "An ergodic value distribution of zeta functions and $L$-functions",
+    "authors": ["A. I. Suriajaya", "Junghun Lee"]
   },
   {
     "title": "$J$-Stability of some polynomial maps in p-adic dynamics",
+    "state": "",
+    "authors": ["Junghun Lee"],
     "talk": {
-      "link": "https://sites.google.com/site/centergaia/hot-news-1/youngmathematicianworkshoponseveralcomplexvariables2014",
-      "type": "internatioanl",
-      "date": { "year": "2014", "month": "August", "day": "4" },
       "place": {
         "country": "Republic of Korea",
         "city": "Pohang",
         "state": "offline"
       },
-      "name": "Young Mathematician Workshop on Several Complex Variables 2014"
-    },
-    "authors": ["Junghun Lee"],
-    "state": ""
+      "name": "Young Mathematician Workshop on Several Complex Variables 2014",
+      "type": "internatioanl",
+      "link": "https://sites.google.com/site/centergaia/hot-news-1/youngmathematicianworkshoponseveralcomplexvariables2014",
+      "date": { "month": "August", "day": "4", "year": "2014" }
+    }
   },
   {
-    "authors": ["A. I. Suriajaya", "Junghun Lee", "T. Onozuka"],
     "state": "",
+    "authors": ["A. I. Suriajaya", "Junghun Lee", "T. Onozuka"],
     "title": "Some probabilistic value distributions of the Riemann zeta function and its derivatives",
     "talk": {
-      "date": { "day": "16", "month": "September", "year": "2015" },
       "name": "MSJ Autumn Meeting 2015",
       "type": "MSJ",
       "place": { "city": "Kyoto", "country": "Japan", "state": "offline" },
+      "date": { "year": "2015", "day": "16", "month": "September" },
       "link": "https://mathsoc.jp/en/meeting/kyoto-sangyo15sept/"
     }
   },
   {
     "state": "",
-    "authors": [
-      "A. I. Suriajaya",
-      "Junghun Lee",
-      "A. Sourmelidis",
-      "J. Steuding"
-    ],
     "talk": {
-      "date": { "day": "", "year": "2018", "month": "Feburary" },
-      "place": { "city": "Nagoya", "state": "offline", "country": "Japan" },
       "name": "Nagoya University Analytic Number Theory Seminar",
-      "type": "natioanl",
-      "link": ""
+      "link": "",
+      "date": { "day": "", "month": "Feburary", "year": "2018" },
+      "place": { "city": "Nagoya", "state": "offline", "country": "Japan" },
+      "type": "natioanl"
     },
-    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip"
-  },
-  {
-    "state": "",
     "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip",
-    "talk": {
-      "place": { "state": "offline", "city": "Bonn", "country": "Germany" },
-      "name": "Conference on elementary and analytic number theory (ELAZ) 2018",
-      "type": "internatioanl",
-      "link": "https://www.mpim-bonn.mpg.de/node/7866",
-      "date": { "month": "September", "day": "4", "year": "2018" }
-    },
     "authors": [
       "A. I. Suriajaya",
       "Junghun Lee",
@@ -333,39 +316,56 @@
     ]
   },
   {
-    "state": "13th International Conference on p-adic Functional Analysis",
-    "title": "$J$-stability of immediately expanding polynomial maps in non-Archimedean dynamics",
+    "title": "Values of the Riemann zeta function on vertical arithmetic progressions in the critical strip",
+    "authors": [
+      "A. I. Suriajaya",
+      "Junghun Lee",
+      "A. Sourmelidis",
+      "J. Steuding"
+    ],
     "talk": {
-      "link": "",
-      "name": "",
-      "place": { "city": "Paderborn", "country": "German", "state": "offline" },
-      "date": { "year": "2014", "day": "12", "month": "August" },
-      "type": "internatioanl"
+      "type": "internatioanl",
+      "name": "Conference on elementary and analytic number theory (ELAZ) 2018",
+      "link": "https://www.mpim-bonn.mpg.de/node/7866",
+      "date": { "month": "September", "day": "4", "year": "2018" },
+      "place": { "city": "Bonn", "country": "Germany", "state": "offline" }
     },
-    "authors": ["Junghun Lee"]
+    "state": ""
   },
   {
-    "title": "$J$-stability of expanding maps in non-Archimedean dynamics",
+    "state": "",
+    "authors": ["Junghun Lee"],
+    "talk": {
+      "place": { "country": "German", "city": "Paderborn", "state": "offline" },
+      "type": "internatioanl",
+      "link": "",
+      "name": "13th International Conference on p-adic Functional Analysis",
+      "date": { "month": "August", "year": "2014", "day": "12" }
+    },
+    "title": "$J$-stability of immediately expanding polynomial maps in non-Archimedean dynamics"
+  },
+  {
     "authors": ["Junghun Lee"],
     "state": "",
     "talk": {
-      "name": "2015年度冬の力学系研究集会",
-      "place": { "state": "offline", "country": "Japan", "city": "Kanazawa" },
       "link": "",
-      "date": { "month": "January", "day": "", "year": "2016" },
-      "type": "natioanl"
-    }
+      "date": { "day": "", "month": "January", "year": "2016" },
+      "place": { "country": "Japan", "city": "Kanazawa", "state": "offline" },
+      "type": "natioanl",
+      "name": "2015年度冬の力学系研究集会"
+    },
+    "title": "$J$-stability of expanding maps in non-Archimedean dynamics"
   },
   {
-    "title": "$J$-Stability in non-Archimedean dynamics",
-    "state": "",
     "authors": ["Junghun Lee"],
+    "state": "",
     "talk": {
       "type": "poster",
-      "date": { "day": "12", "month": "August", "year": "2015" },
       "name": "Arithmetic 2015: Silvermania",
       "link": "https://math.colorado.edu/arithmetic2015/",
-      "place": { "state": "offline", "city": "Providence", "country": "USA" }
-    }
+      "date": { "day": "12", "month": "August", "year": "2015" },
+      "place": { "country": "USA", "state": "offline", "city": "Providence" }
+    },
+    "title": "$J$-Stability in non-Archimedean dynamics"
   }
 ]

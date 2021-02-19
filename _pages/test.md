@@ -41,7 +41,8 @@ toc: true
 ## Talks
 
 <ol>
-{% for talk in site.data.research.talks %}
+{% assign sorted = site.data.research.talks.sort_by! { |k| k.talk.date["year"]} %}
+{% for talk in sorted %}
   <li>
     {% for author in talk.authors %}
         {{author}},
@@ -55,7 +56,7 @@ toc: true
         </a>,
     {% endif %}
     {% if talk.talk.place.state == "online" %}
-        {{talk.talk.place.state}},
+        Online,
     {% else %}
         {{talk.talk.place.city}} ({{talk.talk.place.country}}),
     {% endif %}
